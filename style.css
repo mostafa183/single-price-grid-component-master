@@ -1,0 +1,35 @@
+main{display: flex;
+    width: 55%;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: auto;
+}
+
+
+.frist{background-color: #e28525;
+    padding: 30px;}
+
+.second{background-color: #016972;
+    padding: 30px;}
+
+.third{background-color:#00403f;
+padding: 30px;}
+
+h2{color: white;
+font-size: 40px;
+padding-top: 10px;
+padding-bottom: 10px;}
+
+p{color: #e6faff;
+font-size: 18px;
+padding-right: 15px;}
+
+button{background-color: transparent;
+border: solid;
+border-color: white;
+border-radius: 15px;
+border-width: 2px;
+padding: 8px 15px 8px 15px;
+color: white;
+}
